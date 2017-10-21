@@ -22,6 +22,11 @@
         <br />
     </div>
     
+        <p>
+            COMP488-Fall2017-RAD-NET</p>
+        <p>
+            Andrei Fedorov</p>
+    
     </form>
 </body>
 </html>
